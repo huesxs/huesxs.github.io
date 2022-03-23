@@ -23,9 +23,17 @@ search:
   no_results: Oops! No result founds.
 
 panel:
-  lastmod: Recently Updated
+  lastmod: Recent Update
   trending_tags: Trending Tags
   toc: Contents
+
+#  The liquid date format › http://strftime.net/
+date_format:
+  tooltip: '%a, %b %e, %Y, %l:%M %p %z'
+  post:
+    long: '%b %e, %Y'
+    short: '%b %e'
+    archive_month: '%b'
 
 copyright:
   # Shown at the bottom of the post
@@ -54,6 +62,11 @@ post:
   written_by: By
   posted: Posted
   updated: Updated
+  timeago:
+    day: days ago
+    hour: hours ago
+    minute: minutes ago
+    just_now: just now
   words: words
   pageview_measure: views
   read_time:
