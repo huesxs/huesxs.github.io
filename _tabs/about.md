@@ -16,9 +16,6 @@ Entre mis pequeños logros, se encuentra mi **TOP 5** de España en la plataform
 
 ### ¿Dónde me puedes contactar?
 
-Siempre que me puedas contactar puedes hacerlo en estas dos redes sociales, cabe destacar que tanto en *MyPublicInbox* como en mi correo lo haré con más rapidez si se trata de carácter profesional y/o urgente. Para consultas y/o dudas sencillas puedes enviarme un mensaje directo en mi Twitter.
-
-MyPublicInbox: [@Huesos](https://mypublicinbox.com/Huesos)\
 Twitter: [@huesos](https://twitter.com/huesos)\
 Correo electrónico: [consultas@huesos.blog](mailto:consultas@huesos.blog)
 
